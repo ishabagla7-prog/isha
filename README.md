@@ -1,4 +1,4 @@
 # isha
-first repositoy  
+first repository  
 <br> 
 hackathon team 
